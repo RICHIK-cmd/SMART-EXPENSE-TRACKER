@@ -1,4 +1,4 @@
-💰 Smart Expense Tracker - My first project, ngl not that smart will make it smarter soon.
+💰 Smart Expense Tracker - ngl not that smart will make it smarter soon.
 
 A simple Java-based CLI application to track your daily expenses efficiently.
 
